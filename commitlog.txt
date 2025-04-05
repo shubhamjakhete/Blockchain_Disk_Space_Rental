@@ -3,3 +3,4 @@ React frontend added
 Web3.js integrated
 Tailwind UI and components built
 Final testing and polish
+Smart contract deployment setup
