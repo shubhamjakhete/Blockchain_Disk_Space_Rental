@@ -1,1 +1,2 @@
 Initial commit
+Work log for day 30
