@@ -1,1 +1,2 @@
 Smart contract deployment setup
+React frontend added
