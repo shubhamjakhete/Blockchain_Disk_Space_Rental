@@ -2,6 +2,12 @@
 
 A decentralized web application (dApp) that allows users to rent out or lease disk space in a transparent, trustless way using Ethereum smart contracts. The project is designed to be secure, interactive, and scalable — enabling users to interact with blockchain-based storage rental systems via a modern React + Web3 interface.
 
+#Team Members:
+- Shubham Jakhete
+- Joshna Suresh
+- Lemmie Carvalho
+- Susan Dsouza
+
 #Features
 
 - Smart Contract Factory – Dynamically deploy rental contract instances.
@@ -62,6 +68,5 @@ npm run dev
 Shubham Jakhete
 Email: shubhamsjakhete@gmail.com
 
-#Live Demo
-[COming Soon]
+#Live Demo on Release Section.
 
